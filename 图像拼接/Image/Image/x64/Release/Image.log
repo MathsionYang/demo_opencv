@@ -1,0 +1,64 @@
+﻿  main.cpp
+e:\program files\opencv\图像拼接\image\image\main.cpp(33): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(34): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(43): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(44): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(53): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(54): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(63): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(64): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(134): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(155): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(178): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\program files\opencv\图像拼接\image\image\main.cpp(179): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\program files\opencv\图像拼接\image\image\main.cpp(180): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  正在生成代码
+  0 of 385 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Image.vcxproj -> E:\Program Files\Opencv\图像拼接\Image\x64\Release\Image.exe

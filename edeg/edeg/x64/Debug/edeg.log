@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\program files\opencv\edeg\edeg\main.cpp(42): warning C4305: “=”: 从“double”到“float”截断
+e:\program files\opencv\edeg\edeg\main.cpp(45): warning C4305: “=”: 从“double”到“float”截断
+e:\program files\opencv\edeg\edeg\main.cpp(47): warning C4305: “=”: 从“double”到“float”截断
+e:\program files\opencv\edeg\edeg\main.cpp(62): warning C4129: “e”: 不可识别的字符转义序列
+e:\program files\opencv\edeg\edeg\main.cpp(63): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  edeg.vcxproj -> E:\Program Files\Opencv\edeg\x64\Debug\edeg.exe

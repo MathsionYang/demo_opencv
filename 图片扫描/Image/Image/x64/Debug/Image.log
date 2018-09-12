@@ -1,0 +1,24 @@
+﻿  main.cpp
+e:\program files\opencv\图片扫描\image\image\main.cpp(84): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(85): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(88): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(89): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(124): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(166): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(197): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\program files\opencv\图片扫描\image\image\main.cpp(234): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图片扫描\image\image\main.cpp(235): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图片扫描\image\image\main.cpp(236): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  Image.vcxproj -> E:\Program Files\Opencv\图片扫描\Image\x64\Debug\Image.exe

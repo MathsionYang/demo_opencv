@@ -1,0 +1,59 @@
+﻿  main.cpp
+e:\program files\opencv\图像拼接\image\image\main.cpp(33): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(34): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(43): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(44): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(53): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(54): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(63): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(64): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(136): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(158): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+e:\program files\opencv\图像拼接\image\image\main.cpp(181): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\program files\opencv\图像拼接\image\image\main.cpp(182): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\program files\opencv\图像拼接\image\image\main.cpp(183): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  Image.vcxproj -> E:\Program Files\Opencv\图像拼接\Image\x64\Debug\Image.exe

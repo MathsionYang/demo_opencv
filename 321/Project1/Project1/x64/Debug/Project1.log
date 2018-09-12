@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Main.cpp
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(26): warning C4244: “初始化”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(16): error C2872: “Box”: 不明确的符号
+  c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(11): note: 可能是“Box”
+  e:\program files\matlab\opencv340\include\opencv2\ximgproc\edgeboxes.hpp(61): note: 或    “cv::ximgproc::Box”
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(25): error C2872: “EdgeBoxes”: 不明确的符号
+  c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\edgeboxes.h(59): note: 可能是“EdgeBoxes”
+  e:\program files\matlab\opencv340\include\opencv2\ximgproc\edgeboxes.hpp(67): note: 或    “cv::ximgproc::EdgeBoxes”
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(27): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(79): error C2872: “Boxes”: 不明确的符号
+  c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(30): note: 可能是“std::vector<Box,std::allocator<_Ty>> Boxes”
+          with
+          [
+              _Ty=Box
+          ]
+  e:\program files\matlab\opencv340\include\opencv2\ximgproc\edgeboxes.hpp(63): note: 或    “cv::ximgproc::Boxes”
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(107): error C2872: “Box”: 不明确的符号
+  c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(11): note: 可能是“Box”
+  e:\program files\matlab\opencv340\include\opencv2\ximgproc\edgeboxes.hpp(61): note: 或    “cv::ximgproc::Box”
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(124): error C2872: “Box”: 不明确的符号
+  c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(11): note: 可能是“Box”
+  e:\program files\matlab\opencv340\include\opencv2\ximgproc\edgeboxes.hpp(61): note: 或    “cv::ximgproc::Box”
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(116): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\main.cpp(148): error C2872: “Box”: 不明确的符号
+  c:\users\yang\desktop\计算机视觉\edgeboxes\edgeboxes\box.h(11): note: 可能是“Box”
+  e:\program files\matlab\opencv340\include\opencv2\ximgproc\edgeboxes.hpp(61): note: 或    “cv::ximgproc::Box”

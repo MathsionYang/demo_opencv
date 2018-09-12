@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "struct cv::Ptr<class cv::ximgproc::segmentation::SelectiveSearchSegmentation> __cdecl cv::ximgproc::segmentation::createSelectiveSearchSegmentation(void)" (?createSelectiveSearchSegmentation@segmentation@ximgproc@cv@@YA?AU?$Ptr@VSelectiveSearchSegmentation@segmentation@ximgproc@cv@@@3@XZ)，该符号在函数 main 中被引用
+E:\Program Files\Opencv\selective search\Selective_search\x64\Debug\Selective_search.exe : fatal error LNK1120: 1 个无法解析的外部命令

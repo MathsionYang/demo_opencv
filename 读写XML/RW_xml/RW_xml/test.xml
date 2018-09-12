@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<int_data>4</int_data>
+<char_data>9</char_data>
+<string_data>Hello,world</string_data>
+<array_data>
+  10 9 8 7 6 5 4 3 2 1</array_data>
+<struct_data>
+  <x>3</x>
+  <y>4</y>
+  <s>Hello</s></struct_data>
+<map_data>
+  <Tom>150</Tom>
+  <jack>120</jack></map_data>
+</opencv_storage>

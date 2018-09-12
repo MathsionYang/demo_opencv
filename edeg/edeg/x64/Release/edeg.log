@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\program files\opencv\edeg\edeg\parameters.cpp(15): warning C4305: “=”: 从“double”到“float”截断
+e:\program files\opencv\edeg\edeg\parameters.cpp(18): warning C4305: “=”: 从“double”到“float”截断
+e:\program files\opencv\edeg\edeg\parameters.cpp(20): warning C4305: “=”: 从“double”到“float”截断
+main.obj : error LNK2001: 无法解析的外部符号 Mat_Open
+main.obj : error LNK2001: 无法解析的外部符号 Mat_VarRead
+main.obj : error LNK2001: 无法解析的外部符号 Mat_VarGetStructFieldByName
+main.obj : error LNK2001: 无法解析的外部符号 "void __cdecl edgebox(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class _model,class _para)" (?edgebox@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V_model@@V_para@@@Z)
+E:\Program Files\Opencv\edeg\x64\Release\edeg.exe : fatal error LNK1120: 4 个无法解析的外部命令
